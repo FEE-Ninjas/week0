@@ -10,10 +10,10 @@
 
 ### Videos
 1. Variables and how to declare variables in js: 
-  1. [Video0](https://www.youtube.com/watch?v=7J545CYg8W4&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=2).
-  2. [Video1](https://www.youtube.com/watch?v=aKKIUIcM6sE&list=PLtFbQRDJ11kFJFzd5UNy5vSnkbR031vG9&index=31). 
-  3. [Video2](https://www.youtube.com/watch?v=9t-ap4CJdc8&list=PLtxOBbrOOPH662qi7iHkyH4_TY3wMslp2&index=2) **important video**. 
-  4. [Video3](https://www.youtube.com/watch?v=Svl1BjWgWnU&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=3).
+   1. [Video0](https://www.youtube.com/watch?v=7J545CYg8W4&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=2).
+   2. [Video1](https://www.youtube.com/watch?v=aKKIUIcM6sE&list=PLtFbQRDJ11kFJFzd5UNy5vSnkbR031vG9&index=31). 
+   3. [Video2](https://www.youtube.com/watch?v=9t-ap4CJdc8&list=PLtxOBbrOOPH662qi7iHkyH4_TY3wMslp2&index=2) **important video**. 
+   4. [Video3](https://www.youtube.com/watch?v=Svl1BjWgWnU&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=3).
   
 2. Strings and conditionals in JS:
   1. [Video0](https://www.youtube.com/watch?v=pyvS0zwYbiM&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=5). 
