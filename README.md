@@ -28,6 +28,10 @@
   
 4. Errors in JS [Video about JS errors](https://www.youtube.com/watch?v=O0EHKBi7iXU&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=6). 
 
+</br>
+</br>
+</br>
+***
 
 ## Problem Solving on hackerreank [Hacker rank challenges click on me](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript):
 we will solve:
