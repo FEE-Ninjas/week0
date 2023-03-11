@@ -16,14 +16,15 @@
    4. [Video3](https://www.youtube.com/watch?v=Svl1BjWgWnU&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=3).
   
 2. Strings and conditionals in JS:
-  1. [Video0](https://www.youtube.com/watch?v=pyvS0zwYbiM&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=5). 
-  2. [Video1](https://www.youtube.com/watch?v=8QZ8Ogc3lAs&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=10) 
-  3. [Video2](https://www.youtube.com/watch?v=hG-7O-_4rr4&list=PLtFbQRDJ11kFJFzd5UNy5vSnkbR031vG9&index=32). 
+   1. [Video0](https://www.youtube.com/watch?v=pyvS0zwYbiM&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=5). 
+   2. [Video1](https://www.youtube.com/watch?v=8QZ8Ogc3lAs&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=10) 
+   3. [Video2](https://www.youtube.com/watch?v=hG-7O-_4rr4&list=PLtFbQRDJ11kFJFzd5UNy5vSnkbR031vG9&index=32). 
   
 3. Functions in JS:
-  1. [Video0](https://www.youtube.com/watch?v=RtNCotW8I0g&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=4).
-  2. [Video1](https://www.youtube.com/watch?v=96AvyA-okIk&list=PLtFbQRDJ11kFJFzd5UNy5vSnkbR031vG9&index=33). 
-  3. [Video2](https://www.youtube.com/watch?v=otQ82Wm9lX8&list=PLtxOBbrOOPH662qi7iHkyH4_TY3wMslp2&index=3). 
+   1. [Video0](https://www.youtube.com/watch?v=RtNCotW8I0g&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=4).
+   2. [Video1](https://www.youtube.com/watch?v=96AvyA-okIk&list=PLtFbQRDJ11kFJFzd5UNy5vSnkbR031vG9&index=33). 
+   3. [Video2](https://www.youtube.com/watch?v=otQ82Wm9lX8&list=PLtxOBbrOOPH662qi7iHkyH4_TY3wMslp2&index=3). 
+   
   
 4. Errors in JS [Video about JS errors](https://www.youtube.com/watch?v=O0EHKBi7iXU&list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI&index=6). 
 
