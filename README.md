@@ -31,7 +31,7 @@
 </br>
 </br>
 </br>
-***
+---
 
 ## Problem Solving on hackerreank [Hacker rank challenges click on me](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript):
 we will solve:
